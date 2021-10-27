@@ -1,7 +1,7 @@
 Tugas 1 GDSC ITB Front End Web Dev
 
 Movie List Main Page
-![Halaman Main](img/MainPage.PNG)
+![Halaman Main](List/img/MainPage.PNG)
 
 Detail Movie
-![Halaman Overview](img/Overview.PNG)
+![Halaman Overview](List/img/Overview.PNG)
